@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! Bem-vindo(a) ao meu perfil! 🎀
+<img src="https://media.tenor.com/eW1Q9cBQQ0kAAAAj/heart-sparkle.gif" alt="Separador" width="49%"> <img src="https://media.tenor.com/eW1Q9cBQQ0kAAAAj/heart-sparkle.gif" alt="Separador" width="50%"> 
 
-<!--
-**beatrice-zimmer/beatrice-zimmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🍒 Sobre mim
+Estudante de Engenharia da Computação na PUC-PR no 7º período.
+Técnica em Informática formada pela TECPUC em 2020.
 
-Here are some ideas to get you started:
+- Linguagens: Python, C, Java
+- Trabalhando em reescrever projetos da faculdade e adaptá-los para outras linguagens.
+- Aprendendo HTML, CSS e JavaScript!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🍰 Contato
+* [LinkedIn](linkedin.com/in/beatrice-zimmer)
+* <beatricezimmer2003@gmail.com>
