@@ -1,5 +1,7 @@
 # Olá! Bem-vindo(a) ao meu perfil! ✨
 
+<img src="divisor.gif">
+
 ### 🍒 Sobre mim
 Estudante de Engenharia da Computação na PUC-PR no 7º período. Técnica em Informática formada pela TECPUC em 2020.
 
