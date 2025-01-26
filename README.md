@@ -1,9 +1,9 @@
 # Olá! Bem-vindo(a) ao meu perfil! ✨
 
 <div style="display: flex; justify-content: center; align-items: center; overflow: hidden; width: 100%;">
-  <img src="./bubble_divider.gif" style="height: 50%; width: auto; flex-shrink: 0;">
-  <img src="./bubble_divider.gif" style="height: 50%; width: auto; flex-shrink: 0;">
-  <img src="./bubble_divider.gif" style="height: 50%; width: auto; flex-shrink: 0;">
+  <img src="./bubble_divider.gif" style="height: 32%; width: auto; flex-shrink: 0;">
+  <img src="./bubble_divider.gif" style="height: 33%; width: auto; flex-shrink: 0;">
+  <img src="./bubble_divider.gif" style="height: 33%; width: auto; flex-shrink: 0;">
 </div>
 
 ### 🍒 Sobre mim
