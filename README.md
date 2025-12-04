@@ -3,8 +3,7 @@
 <img src="divisor.gif">
 
 ### 🍒 Sobre mim
-Estudante de Engenharia da Computação na PUC-PR no 8º período. Técnica em Informática formada pela TECPUC em 2020. Estagiária de T.I. na [Macke Consultoria](https://www.mackeconsultoria.com.br/).
-
+Estudante de Engenharia da Computação na PUC-PR no 8º período. Técnica em Informática formada pela TECPUC em 2020. 
 - Linguagens:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
